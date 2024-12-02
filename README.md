@@ -16,13 +16,6 @@
 ```bash
 pip install -r requirements.txt
 ```
-- Dùng virtual environment (hướng dẫn bên dưới dành cho VS Code)  
-```bash
-.venv\scripts\activate
-```
-- Chọn new environment:   
-Mở Command Palette (Ctrl + Shift + P): Tìm chọn ```Python: Select Interpreter```, chọn ```.venv``` 
-
 ## 2. Chạy chương trình:  
 Chạy file ```SnakeGame.py```  
 Để vào game => Nhấn phím a  
