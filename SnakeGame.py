@@ -27,7 +27,7 @@ def main():
 	CLOCK = pygame.time.Clock()
 	SCREEN = pygame.display.set_mode((WINDOWWIDTH, WINDOWHEIGHT))
 	FONT = pygame.font.Font('freesansbold.ttf', 18)
-	pygame.display.set_caption('Snake Game - Team 20')
+	pygame.display.set_caption('Snake Game - Team 02')
 
 	showStartScreen()
 
